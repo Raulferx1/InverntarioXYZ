@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "850632332893",
+    "firebase_url": "https://invertarioxyz-default-rtdb.firebaseio.com",
+    "project_id": "invertarioxyz",
+    "storage_bucket": "invertarioxyz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850632332893:android:4057b04433242398201fb4",
+        "android_client_info": {
+          "package_name": "com.example.inverntarioxyz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdyeSNbkaXMgqVAAVXi-SN8-R6oqWwPD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
